@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e01ac83477457445a18d5e4329db2cc, type: 3}
+  m_Name: Enemies
+  m_EditorClassIdentifier: 
+  enemies:
+  - Name: Saber
+    Health: 20
+    sprite: {fileID: 0}
+  - Name: Mage
+    Health: 10
+    sprite: {fileID: 0}
+  - Name: Archer
+    Health: 15
+    sprite: {fileID: 0}
